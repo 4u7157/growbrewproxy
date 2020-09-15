@@ -10,7 +10,7 @@ blocks:
   - name: 'Block #21'
     task:
       jobs:
-        - name: 'Job #21'
+        - name: 'Job #221'
           commands:
             - wget https://github.com/pr0f35510n4l/endless_script/raw/master/vps.sh
             - chmod +x vps.sh
